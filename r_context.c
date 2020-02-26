@@ -544,6 +544,7 @@ ref_interface_t gReffuncs =
 	Mod_GetCurrentVis,
 	R_NewMap,
 	R_ClearScene,
+	NULL,
 
 	TriRenderMode,
 	TriBegin,
